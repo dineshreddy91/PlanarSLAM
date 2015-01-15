@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/posest/src
+END
+esm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ros-pkg/!svn/ver/36365/stacks/vslam/trunk/posest/src/esm.cpp
+END
+pe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/posest/src/pe.cpp
+END
+pnp_ransac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ros-pkg/!svn/ver/36071/stacks/vslam/trunk/posest/src/pnp_ransac.cpp
+END
+howardMatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ros-pkg/!svn/ver/36959/stacks/vslam/trunk/posest/src/howardMatcher.cpp
+END
+pe2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/posest/src/pe2d.cpp
+END
+pe3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/posest/src/pe3d.cpp
+END
+peh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ros-pkg/!svn/ver/36959/stacks/vslam/trunk/posest/src/peh.cpp
+END
+planarSFM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/posest/src/planarSFM.cpp
+END
