@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/posest/include/posest/src/MatrixFunctions
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ros-pkg/!svn/ver/33811/stacks/vslam/trunk/posest/include/posest/src/MatrixFunctions/CMakeLists.txt
+END
+MatrixFunctionAtomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/posest/include/posest/src/MatrixFunctions/MatrixFunctionAtomic.h
+END
+MatrixFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/posest/include/posest/src/MatrixFunctions/MatrixFunction.h
+END
+MatrixExponential.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/posest/include/posest/src/MatrixFunctions/MatrixExponential.h
+END
+StemFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ros-pkg/!svn/ver/33811/stacks/vslam/trunk/posest/include/posest/src/MatrixFunctions/StemFunction.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ros-pkg/!svn/ver/36959/stacks/vslam/trunk/posest/include/posest
+END
+esm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ros-pkg/!svn/ver/36365/stacks/vslam/trunk/posest/include/posest/esm.hpp
+END
+pe.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/posest/include/posest/pe.h
+END
+pnp_ransac.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ros-pkg/!svn/ver/33589/stacks/vslam/trunk/posest/include/posest/pnp_ransac.h
+END
+lie_algebra.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ros-pkg/!svn/ver/36365/stacks/vslam/trunk/posest/include/posest/lie_algebra.hpp
+END
+MatrixFunctions
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/posest/include/posest/MatrixFunctions
+END
+howardMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ros-pkg/!svn/ver/36959/stacks/vslam/trunk/posest/include/posest/howardMatcher.h
+END
+pe2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ros-pkg/!svn/ver/33589/stacks/vslam/trunk/posest/include/posest/pe2d.h
+END
+pe3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ros-pkg/!svn/ver/33589/stacks/vslam/trunk/posest/include/posest/pe3d.h
+END
+peh.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ros-pkg/!svn/ver/36959/stacks/vslam/trunk/posest/include/posest/peh.h
+END
+cxeigen.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/posest/include/posest/cxeigen.hpp
+END
+planarSFM.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ros-pkg/!svn/ver/33589/stacks/vslam/trunk/posest/include/posest/planarSFM.h
+END
